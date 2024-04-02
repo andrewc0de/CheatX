@@ -5,9 +5,11 @@ Join the Discord server [here](https://discord.gg/qBJDhNQKsJ) for future updates
 
 To use CheatX, simply copy and paste the following script into your executor of choice, and modify the globals to your desired settings:
 
-    _G.UseConfig = false -- Auto save your settings
-    _G.DebugStats = false -- Press F9, toggable in Config
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/andrewc0de/Roblox/main/Misc/UniversalMultihack.lua'))()
+```lua
+_G.UseConfig = false -- Auto save your settings
+_G.DebugStats = false -- Press F9, toggable in Config
+loadstring(game:HttpGet('https://raw.githubusercontent.com/andrewc0de/CheatX/main/loader/main.lua'))()
+```
 
 ![image](https://github.com/andrewc0de/CheatX/assets/127004647/dd626d2a-8547-4222-ab17-e9423febff9a)
 
