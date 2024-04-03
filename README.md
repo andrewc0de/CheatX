@@ -4,6 +4,8 @@
 CheatX is a multitool designed in LuaU for the popular mutliplayer sandbox game, Roblox. 
 Join the Discord server [here](https://discord.gg/qBJDhNQKsJ) for future updates, changelogs, and more! 
 
+> When searching for a versatile script to gain an advantage over other players in various games, we aim to make CheatX the first choice that comes to mind. Boasting a comprehensive user interface, a feature-rich ESP, and a hitbox expander that simplifies the process of damaging and targeting players, CheatX offers a plethora of tools designed to enhance your gaming experience, in any game.
+
 To use CheatX, simply copy and paste the following script into your executor of choice, and modify the globals to your desired settings:
 
 ```lua
