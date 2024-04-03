@@ -1,3 +1,4 @@
+
 # CheatX
 
 CheatX is a multitool designed in LuaU for the popular mutliplayer sandbox game, Roblox. 
@@ -16,7 +17,9 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/andrewc0de/CheatX/mai
 ## Features
 - **Script** 
 	- Automatic configuration saving system 
-		- Ability to disable 
+		- Ability to disable
+	- Press "K" to toggle the UI 
+	- Automatic key saving - you only have to complete the key system once! 
 
  - **Visuals** 
 	 - Enemy and team boxes 
