@@ -3,6 +3,7 @@
 
 🎯 CheatX is a multitool designed in LuaU for the popular mutliplayer sandbox game, Roblox. 
 Join the Discord server [here](https://discord.gg/qBJDhNQKsJ) for future updates, changelogs, and more! 
+
 Also check out the full thread design on our [V3rmilion thread](https://v3rm.net/threads/release-%E2%9A%94%EF%B8%8F-cheatx-the-premier-free-roblox-multitool-%F0%9F%8E%AF-universal-aimbot-hitbox-expander-visuals-local-player-silent-aim-soon.6052/) (and leave a 👍)
 
 > *"When searching for a versatile script to gain an advantage over other players in various games, we aim to make CheatX the first choice that comes to mind. Boasting a comprehensive user interface, a feature-rich ESP, and a hitbox expander that simplifies the process of damaging and targeting players, CheatX offers a plethora of tools designed to enhance your gaming experience, in any game."*
@@ -19,12 +20,12 @@ We test CheatX on the following exploits:
 ![View the full thread design on the V3rmillion thread](https://i.imgur.com/YUNfxEQ.png)
 
 ## Features
-- **Script** 
+- **📜 Script** 
 	- Configuration saving system
 		- Autoload configs 
 	- Automatic key saving - you only have to complete the key system once (per update)! 
 
- - **Visuals** 
+ - **👁️ Visuals** 
 	 - Enemy and team boxes 
 	 - Enemy and team 3D boxes 
 	 - Enemy and team health bars 
@@ -33,28 +34,28 @@ We test CheatX on the following exploits:
 	 - Enemy and team name-tags 
 	 - Completely customizable 
 
-- **Hitboxes**
+- **🕴️ Hitboxes**
 	- Custom part options 
 		- Head, HumanoidRootPart 
 	- Custom opacity 
 	- Custom colors 
 	- Listener-based instead of loop-based (For FPS) 
 
-- **Aimbot** 
+- **🎯 Aimbot** 
 	- Custom part options 
 		- Head, HumanoidRootPart
 	- Visible Check 
 	- Team Check 
 	- Draw FOV 
 
-- **Silent Aim** 
+- **😶 Silent Aim** 
 	- Coming soon! 
 
-- **Local Player Modifications**
+- **✏️ Player Modifications**
 	- WalkSpeed
 	- JumpPower
 	- NoClip
 	- Anticheat protections 
 
-- **Configuration** 
+- **⚙️ Configuration** 
 	- Enable debug features 
