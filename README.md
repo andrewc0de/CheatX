@@ -1,27 +1,28 @@
 
 # CheatX
 
-CheatX is a multitool designed in LuaU for the popular mutliplayer sandbox game, Roblox. 
+🎯 CheatX is a multitool designed in LuaU for the popular mutliplayer sandbox game, Roblox. 
 Join the Discord server [here](https://discord.gg/qBJDhNQKsJ) for future updates, changelogs, and more! 
+Also check out the full thread design on our [V3rmilion thread](https://v3rm.net/threads/release-%E2%9A%94%EF%B8%8F-cheatx-the-premier-free-roblox-multitool-%F0%9F%8E%AF-universal-aimbot-hitbox-expander-visuals-local-player-silent-aim-soon.6052/) (and leave a 👍)
 
-> When searching for a versatile script to gain an advantage over other players in various games, we aim to make CheatX the first choice that comes to mind. Boasting a comprehensive user interface, a feature-rich ESP, and a hitbox expander that simplifies the process of damaging and targeting players, CheatX offers a plethora of tools designed to enhance your gaming experience, in any game.
+> *"When searching for a versatile script to gain an advantage over other players in various games, we aim to make CheatX the first choice that comes to mind. Boasting a comprehensive user interface, a feature-rich ESP, and a hitbox expander that simplifies the process of damaging and targeting players, CheatX offers a plethora of tools designed to enhance your gaming experience, in any game."*
 
-To use CheatX, simply copy and paste the following script into your executor of choice, and modify the globals to your desired settings:
+To use CheatX, simply copy and paste the following script into your executor of choice: 
 
 ```lua
-_G.UseConfig = false -- Auto save your settings
-_G.DebugStats = false -- Press F9, toggable in Config
+_G.DebugStats =  false  -- Press F9, toggable in the UI
 loadstring(game:HttpGet('https://raw.githubusercontent.com/andrewc0de/CheatX/main/loader/main.lua'))()
 ```
+We test CheatX on the following exploits: 
+- [Krampus](https://www.krampus.gg/) (Web Exeuctor) 
 
-![image](https://github.com/andrewc0de/CheatX/assets/127004647/dd626d2a-8547-4222-ab17-e9423febff9a)
+![View the full thread design on the V3rmillion thread](https://i.imgur.com/YUNfxEQ.png)
 
 ## Features
 - **Script** 
-	- Automatic configuration saving system 
-		- Ability to disable
-	- Press "K" to toggle the UI 
-	- Automatic key saving - you only have to complete the key system once! 
+	- Configuration saving system
+		- Autoload configs 
+	- Automatic key saving - you only have to complete the key system once (per update)! 
 
  - **Visuals** 
 	 - Enemy and team boxes 
@@ -30,22 +31,30 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/andrewc0de/CheatX/mai
 	 - Enemy and team offscreen-arrows 
 	 - Enemy and team distance indicators 
 	 - Enemy and team name-tags 
+	 - Completely customizable 
 
 - **Hitboxes**
 	- Custom part options 
-		- Head, humanoidrootpart 
+		- Head, HumanoidRootPart 
 	- Custom opacity 
 	- Custom colors 
-	- Listener-based instead of loop-based 
+	- Listener-based instead of loop-based (For FPS) 
+
+- **Aimbot** 
+	- Custom part options 
+		- Head, HumanoidRootPart
+	- Visible Check 
+	- Team Check 
+	- Draw FOV 
+
+- **Silent Aim** 
+	- Coming soon! 
 
 - **Local Player Modifications**
 	- WalkSpeed
 	- JumpPower
 	- NoClip
 	- Anticheat protections 
-
-- **Color Picker**
-	- Built in library of 100+ colors to use  
 
 - **Configuration** 
 	- Enable debug features 
