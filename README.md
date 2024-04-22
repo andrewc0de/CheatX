@@ -3,9 +3,11 @@
 
 🎯 CheatX is a multitool designed in LuaU for the popular mutliplayer sandbox game, Roblox. 
 Join the Discord server [here](https://discord.gg/qBJDhNQKsJ) for future updates, changelogs, and more! 
+
 (If the above link does not work, use [this link](https://dsc.gg/ithinkimandrew) for the Discord)
 
 Also check out the full thread design on our [V3rmilion thread](https://v3rm.net/threads/release-%E2%9A%94%EF%B8%8F-cheatx-the-premier-free-roblox-multitool-%F0%9F%8E%AF-universal-aimbot-hitbox-expander-visuals-local-player-silent-aim-soon.6052/) (and leave a 👍)
+
 Also check out our [ScriptBlox page](https://scriptblox.com/script/Universal-Script-The-Premier-Universal-Multitool-12328) and leave a ⭐! 
 
 ## Usage
