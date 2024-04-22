@@ -47,9 +47,16 @@ We test CheatX on the following exploits:
 - **🎯 Aimbot** 
 	- Custom part options 
 		- Head, HumanoidRootPart
+	- RayCast based targeting 
+	- Sensitivity Adjuster 
+	- Custom Offsets 
+	- Custom Part support 
+	- Closest to mouse / closest to player 
 	- Visible Check 
 	- Team Check 
-	- Draw FOV 
+	- Custom FOV 
+		- Draw FOV 
+		- Responsive to Offsets 
 
 - **😶 Silent Aim** 
 	- Coming soon! 
